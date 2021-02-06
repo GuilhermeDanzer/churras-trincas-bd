@@ -18,21 +18,21 @@
           "nome": "Alice",
           "preco": 25,
           "bebida": true,
-          "pagamento": true,
+          "pagamento": false,
           "id": 113500
         },
         {
           "nome": "Beto",
           "preco": 25,
           "bebida": true,
-          "pagamento": true,
+          "pagamento": false,
           "id": 70992
         },
         {
           "nome": "Fernando",
           "preco": 15,
           "bebida": false,
-          "pagamento": true,
+          "pagamento": false,
           "id": 110957
         },
         {
@@ -40,17 +40,17 @@
           "preco": 15,
           "bebida": false,
           "id": 120826,
-          "pagamento": true
+          "pagamento": false
         },
         {
           "nome": "Diego B.",
           "preco": 25,
           "bebida": true,
-          "pagamento": false,
+          "pagamento": true,
           "id": 123731
         }
       ],
-      "total": 25,
+      "total": 80,
       "id": 1
     }
   ]
