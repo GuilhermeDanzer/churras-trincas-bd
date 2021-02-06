@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "trinca@trinca.com",
+      "senha": "trinca"
+    }
+  ],
+  "churrascos": [
+    {
+      "nome": "Churrasco Trinca",
+      "data": "2021-03-29",
+      "desc": "Churrasco final de projeto",
+      "churrasPreco": "15",
+      "bebidaPreco": "10",
+      "obs": "Pode levar um acompanhante",
+      "listaConvidado": [
+        {
+          "nome": "Alice",
+          "preco": 25,
+          "bebida": true,
+          "pagamento": true,
+          "id": 113500
+        },
+        {
+          "nome": "Beto",
+          "preco": 25,
+          "bebida": true,
+          "pagamento": true,
+          "id": 70992
+        },
+        {
+          "nome": "Fernando",
+          "preco": 15,
+          "bebida": false,
+          "pagamento": true,
+          "id": 110957
+        },
+        {
+          "nome": "Diego P.",
+          "preco": 15,
+          "bebida": false,
+          "id": 120826,
+          "pagamento": true
+        },
+        {
+          "nome": "Diego B.",
+          "preco": 25,
+          "bebida": true,
+          "pagamento": false,
+          "id": 123731
+        }
+      ],
+      "total": 25,
+      "id": 1
+    }
+  ]
+}
